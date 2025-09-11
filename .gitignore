@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+
+# React
+frontend/node_modules/
+dist/
+
+# IDE
+.vscode/
+*.log
