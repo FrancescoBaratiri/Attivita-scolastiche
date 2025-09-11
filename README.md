@@ -2,19 +2,19 @@
 
 Progetto per la condivisione di attività come PCTO o PLS tra enti scolastici (es. università e scuole).
 
-## 🔧 Stack Tecnologico
+## Stack Tecnologico
 
 - **Frontend**: React + Vite
 - **Backend**: Node.js + Express
 - **Database**: SQLite / PostgreSQL (a scelta)
 - **Autenticazione**: JWT (base)
 
-## 📦 Struttura
+## Struttura
 
 - `/frontend`: interfaccia utente (React)
 - `/backend`: API REST e gestione database
 
-## 🚀 Come avviare il progetto
+## Come avviare il progetto
 
 ### Backend
 ```bash
