@@ -26,3 +26,26 @@
 - Specifiche endpoint CRUD per Attività, Argomenti e Utenti
 - Metodi HTTP (GET, POST, PUT, DELETE), parametri JSON e risposte standard documentati
 - File salvato in docs/api/specs.md
+
+12/09 – Creazione piano della qualità
+- Definite procedure di qualità e standard da rispettare durante lo sviluppo
+- File salvato in docs/piano_qualita.md
+
+12/09 – Creazione piano di valutazione
+- Definita strategia di test: unit, integration, system, acceptance
+- Specificati strumenti, persone coinvolte, scheduling e deliverables
+- File salvato in docs/piano_valutazione.md
+
+12/09 – Creazione piano di manutenzione
+- Definite tipologie di manutenzione: correttiva, adattiva, evolutiva, preventiva
+- Specificate risorse, pianificazione e deliverables
+- File salvato in docs/piano_manutenzione.md
+
+12/09 – Creazione piano sviluppo del personale
+- Definite competenze richieste, sviluppo e pianificazione personale
+- File salvato in docs/piano_personale.md
+
+12/09 – Creazione organizzazione delle attività
+- Definite milestones principali e deliverables del progetto
+- File salvato in docs/organizzazione_attivita.md
+
